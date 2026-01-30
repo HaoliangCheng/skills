@@ -37,3 +37,7 @@ Browse the available skills and integrate the patterns into your projects. Each 
 ---
 
 *This repository is actively maintained and updated with new skills as I develop them.*
+
+## License
+
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
