@@ -2,7 +2,7 @@
 
 A collection of technical skills, guides, and best practices I've developed and use in my projects.
 
-> **📖 This repository is totally public and open for anyone to use, learn from, and contribute to.**
+> **📖 This repository is totally public and open for anyone to use.**
 
 ## Overview
 
