@@ -10,7 +10,7 @@ This repository serves as a personal knowledge base for various development skil
 
 ## Available Skills
 
-### 🎨 [LLM Output Handler](./llm-output-handler/SKILL.md)
+### 🎨 [Frontend LLM Output Handler](./frontend/llm-output-handler/SKILL.md)
 Guide for enhancing frontend code with the capability to render AI/LLM outputs (Markdown, LaTeX, code blocks) securely and accurately in the UI.
 
 **Key Topics:**
